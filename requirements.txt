@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+pandas
+sentence-transformers
+google-genai
+newsapi-python
+newspaper3k
+torch
+torchvision
+transformers
