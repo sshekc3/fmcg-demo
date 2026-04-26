@@ -1,3 +1,4 @@
+lxml_html_clean==0.4.4
 absl-py==2.4.0
 altair==6.1.0
 annotated-doc==0.0.4
@@ -78,7 +79,6 @@ libclang==18.1.1
 lightgbm==4.6.0
 llvmlite==0.47.0
 lxml==6.1.0
-lxml_html_clean==0.4.4
 Markdown==3.10.2
 markdown-it-py==4.0.0
 MarkupSafe==3.0.3
